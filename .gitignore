@@ -16,3 +16,7 @@ bin/
 test/resources/projects/**/.vscode
 test/resources/projects/maven/salut/testGradle
 test-temp
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
